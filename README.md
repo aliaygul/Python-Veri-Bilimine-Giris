@@ -1,1 +1,1 @@
-# Python-Veri-Bilimine-Giriş-
+# Python-Veri-Bilimine-Giriş
